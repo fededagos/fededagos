@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fededagos
 - 👀 I’m interested in Neuroscience and Machine Learning.
-- 🌱 I’m currently learning python for Data Science.
-- 💞️ I’m looking to collaborate on anything really.
+- 🌱 I’m currently studying Machine Learning at UCL.
 - 📫 How to reach me: fede.dagos@gmail.com
 
 <!---
